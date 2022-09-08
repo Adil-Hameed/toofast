@@ -10,7 +10,7 @@ import Img6 from "../Assets/6.jpg"
 const oopp = {
     navbar: {
         h1: "Start APi",
-        li: ["About", "Services", "Portfolio", "Contact", "google"]
+        li: ["About", "Services", "Portfolio"]
     },
     section1: {
         h1: "Your Favorite Place for Free Tailwind Themes",
